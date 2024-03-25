@@ -22,7 +22,7 @@ Welcome to the QR Code Generator project! This project was inspired by the amazi
 
 ## 🎨 Demo
 
-[Insert a link to a live demo or screenshot of the application]
+https://qr-code-generator-liard-zeta.vercel.app
 
 ## 🛠️ Usage
 
