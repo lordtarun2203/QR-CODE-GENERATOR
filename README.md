@@ -45,4 +45,4 @@ Contributions are always welcome! If you have any cool ideas or find any bugs, f
 
 ---
 
-<p align="center">Made with ❤️ by Tarun Aaditya \</p>
+<p align="center">Made with ❤️ by Tarun Aaditya</p>
