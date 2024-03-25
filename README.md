@@ -7,12 +7,6 @@
   <em>A simple and fun web application to generate QR codes for URLs!</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/your-username/qr-code-generator" alt="License" />
-  <img src="https://img.shields.io/github/contributors/your-username/qr-code-generator" alt="Contributors" />
-  <img src="https://img.shields.io/github/issues/your-username/qr-code-generator" alt="Issues" />
-</p>
-
 ---
 
 ## 🚀 Overview
@@ -48,10 +42,7 @@ Welcome to the QR Code Generator project! This project was inspired by the amazi
 
 Contributions are always welcome! If you have any cool ideas or find any bugs, feel free to open an issue or submit a pull request. Let's make this project even better together!
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name] | Inspired by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)</p>
+<p align="center">Made with ❤️ by Tarun Aaditya \</p>
